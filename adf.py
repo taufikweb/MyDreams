@@ -29,10 +29,9 @@ except ImportError:
         # be sure to comment out the list below it.
         #ROOT_URLS = ["https://digg.com/"]
         ROOT_URLS = [
-           #"https://www3.davisonbarker.pro/pushredirect/?network=3&site=adfly&ppi=26637547&pci=7199300501&t=1679902972&dest=https%3A%2F%2Frivaldevs.blogspot.com%2F2023%2F03%2F10-game-offline-terbaik.html%3Fm%3D1",
-          #  "http://lyksoomu.com/26637547/goto"
+           
             "https://rivaldevs.blogspot.com/2023/03/10-teknologi-terbaru-yang-akan-mengubah.html?m=1",
-           # "https://rivaldevs.blogspot.com/",
+            "https://rivaldevs.blogspot.com/",
             "https://rivaldevs.blogspot.com/2023/03/10-game-offline-terbaik.html?m=1"
 
         ]
